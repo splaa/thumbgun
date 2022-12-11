@@ -1,4 +1,6 @@
 {
+    "name": "splaa/thumbgun",
+    "description": "Serving resized S3 images on the fly",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
