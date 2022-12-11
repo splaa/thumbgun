@@ -15,8 +15,10 @@
         "symfony/yaml": "6.1.*"
     },
     "require-dev": {
-        "roave/security-advisories": "dev-latest"
-        ,
+        "phpunit/phpunit": "^9.5",
+        "psalm/phar": "^5.1",
+        "roave/security-advisories": "dev-latest",
+        "symfony/phpunit-bridge": "^6.2"
     },
     "config": {
         "allow-plugins": {
