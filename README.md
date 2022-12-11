@@ -6,3 +6,4 @@
 [#1 Докеризация приложения Symfony 6](https://medium.com/@dotcom.software/serving-resized-s3-images-on-the-fly-6b052ee3b0ca)
 [repo](https://github.com/dotcom-poland/thumbgun)
 
+- [ ] [Настройка Github Actions для Symfony проекта](https://antonshell.me/post/github-actions-symfony)
